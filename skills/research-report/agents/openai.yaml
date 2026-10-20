@@ -1,0 +1,6 @@
+interface:
+  display_name: "Research 报告写作与调查"
+  short_description: "用可追溯证据组织公司与行业研究，核验关键数据，保留反方解释并设置证伪条件"
+  default_prompt: "请使用 $research-report 研究指定公司或行业，输出有来源、反方解释和证伪指标的报告。"
+policy:
+  allow_implicit_invocation: true
